@@ -5,8 +5,6 @@ int main(void){
         printf("%s\n", stringa);
         return 0;
 }
-
-void inverti_capitalizza_stringa(char *stringa, int);
-for()
  
+ void inverti_capitalizza_stringa(char *, int);
 
